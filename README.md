@@ -6,4 +6,4 @@ Coding assingment for HiHello.
 
 Started using the create-react-app command adding the Typescript template.
 
-## `npx create-react-app react-basic-calculator --template typescript`
+`npx create-react-app react-basic-calculator --template typescript`
