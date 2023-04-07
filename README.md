@@ -2,6 +2,14 @@
 
 This is a basic calculator application built using React and TypeScript. It allows users to perform simple arithmetic operations and has additional features like percentage calculation and support for Playwright tests.
 
+![basic-react-calculator](https://github.com/arturguimaraes/basic-react-calculator/blob/main/src/assets/mobile.png?raw=true)
+
+![basic-react-calculator](https://github.com/arturguimaraes/basic-react-calculator/blob/main/src/assets/pc.png?raw=true)
+
+## Live Application
+
+Click [here](https://arturguimaraes.github.io/basic-react-calculator/) to go to the application.
+
 ## Template Usage
 
 To create this application, the developer used the create-react-app command and added the Typescript template by running:
@@ -46,6 +54,8 @@ Then, in a separate terminal window, run:
 A report in HTML format will be automatically generated and opened in your default browser. If the report does not open, run:
 
 `npm run playwright-report`
+
+![basic-react-calculator](https://github.com/arturguimaraes/basic-react-calculator/blob/main/src/assets/tests.png?raw=true)
 
 Alternatively, you can navigate to the 'playwright-report' folder and manually open the generated file.
 

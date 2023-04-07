@@ -1,0 +1,41 @@
+.screen {
+  color: white;
+  font-size: 3rem;
+  border: 2px solid gray;
+  border-radius: 15px;
+  padding: 5px 15px;
+  text-align: right;
+  height: 4rem;
+  vertical-align: middle;
+  display: table-cell;
+  width: 100vw;
+}
+
+.screenSmall {
+  font-size: 1.5rem !important;
+}
+
+.container {
+  color: darkorange;
+  font-size: 1.5rem;
+  display: grid;
+  gap: 10px;
+  padding: 5px 15px;
+  margin-bottom: 10px;
+}
+
+.label {
+  text-align: left;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+.total {
+  text-align: right;
+  grid-column-start: 2;
+  grid-column-end: 18;
+}
+
+.totalSmall {
+  font-size: 1rem !important;
+}
