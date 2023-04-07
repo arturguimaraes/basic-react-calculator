@@ -1,6 +1,6 @@
 {
-  "name": "react-basic-calculator",
   "homepage": "https://arturguimaraes.github.io/basic-react-calculator/",
+  "name": "react-basic-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
