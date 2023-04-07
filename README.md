@@ -24,6 +24,7 @@ This project uses the following additional packages:
 - React Redux and Reduxjs Toolkit: To manage application state.
 - Uuid: To generate unique ids.
 - Playwright: To automate end-to-end testing.
+- GitHub Pages: To deploy the app for live using.
 
 ## Installation
 
