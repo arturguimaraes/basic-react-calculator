@@ -1,9 +1,0 @@
-{
-  "short_name": "Basic React Calculator",
-  "name": "Basic React Calculator",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#000000"
-}
