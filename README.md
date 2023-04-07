@@ -2,6 +2,10 @@
 
 This is a basic calculator application built using React and TypeScript. It allows users to perform simple arithmetic operations and has additional features like percentage calculation and support for Playwright tests.
 
+## Live Application
+
+Click [here](https://arturguimaraes.github.io/basic-react-calculator/) to go to the application.
+
 ![basic-react-calculator](https://github.com/arturguimaraes/basic-react-calculator/blob/main/src/assets/mobile.png?raw=true)
 
 ![basic-react-calculator](https://github.com/arturguimaraes/basic-react-calculator/blob/main/src/assets/pc.png?raw=true)
