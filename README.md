@@ -35,7 +35,7 @@ This is a basic calculator application built using React and TypeScript. It allo
 
 ## Template Usage
 
-To create this application, I used the create-react-app command and added the Typescript template by running:
+This application was created by running the create-react-app command and adding the Typescript template.
 ```sh
 npx create-react-app react-basic-calculator --template typescript
 ```
